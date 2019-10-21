@@ -3,7 +3,7 @@ Detect which files have been changed and/or added to a VBox image. Poor man's sa
 
 This is a re-make of an old script I created a "while" back:  https://blog.prowling.nu/2012/10/detect-changes-in-virtual-guest-after.html 
 
-This version is somewhat improved, but also a bit more limited in usability as there is only support for MacOS only.
+This version is somewhat improved, but also a bit more limited in usability as there is only support for MacOS.
 
 Syntax:
 
